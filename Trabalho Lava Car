@@ -1,2 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<title>Lava Car do Stitch</title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+
+	<body>
+		<header>
+			<h1 class="titulo-principal">Bem vindo ao Lava Car do Sticth</h1>
+		</header>
+		<img id="banner" src="banner.jpg">
+		<div class="principal">
+			<h2 class="titulo-centralizado">Sobre o Lava Car</h2>
+	 
+			<p>Só aqui no <strong>Lava Car do Stitch</strong> Proporcionamos uma melhor estetica e performance para seu automóvel.</p>
+
+			<p id="missao"><em>Nossa missão é: <strong>"proporcionar um automóvel limpo e cheiroso para os clientes"</strong>.</em></p>
+
+			<p>Oferecemos profissionais experientes e qualificados para uma melhor experiencia de serviço.</p>
+		</div>
+
+		<div class="beneficios">
+			<h3 class="titulo-centralizado">Benefícios</h3>
+
+			<ul>
+				<li class="itens">Atendimento aos Clientes</li>
+				<li class="itens">Espaço diferenciado</li>
+				<li class="itens">Localização</li>
+				<li class="itens">Profissionais Qualificados</li>
+                <li class="itens">Produtos de primeira</li>
+                <li class="itens">Brindes, como aromatizante automobilistico e lixinho de marcha</li>
+			</ul>
+
+			<img src="beneficios.jpg" class="imagembeneficios">
+		</div>
+	</body>
+</html>
 
 
